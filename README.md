@@ -1,2 +1,2 @@
 # projeto_curso_algoritmo
-curso de algoritmo udemy pr cleison
+Curso de Algoritmo e Logica udemy Professor Cleison
